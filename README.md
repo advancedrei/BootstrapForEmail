@@ -13,7 +13,7 @@ Anything that uses JavaScript is left out, leaving you with an e-mail page suita
 Quick start
 -----------
 
-Clone the repo, `git clone git://github.com/advancedrei/bootstrapforemail.git`, or [download the latest release](https://github.com/advancedrei/bootstrapforemail/zipball/master).
+Clone the repo, `git clone git://github.com/advancedrei/BootstrapForEmail.git`, or [download the latest release](https://github.com/advancedrei/bootstrapforemail/zipball/master).
 
 Drop these files in with your Bootstrap LESS files, and it will automatically pick up the proper @imports. Or just use the pre-baked output. There is also a template.html file in the root that utilizes the visual concepts in the Bootstrap samples, replicated in HTML 4.01.
 
